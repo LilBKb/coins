@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  font-family: "Inter";
+  list-style: none;
+  flex-direction: column;
+  gap: 12px;
+}
